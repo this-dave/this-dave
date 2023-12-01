@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Dave 👋🏼👨🏼‍💻</h1>
+<h3 align="center">I'm a software developer based in Tyrol, Austria</h3>
+
+<p align="center">
+  📫 Contact: <a href="mailto:hello@thisdave.xyz">hello@thisdave.xyz</a>
+</p>
+
 
 <!--
 **this-dave/this-dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
